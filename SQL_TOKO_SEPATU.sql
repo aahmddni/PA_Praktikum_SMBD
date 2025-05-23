@@ -75,7 +75,7 @@ INSERT INTO kategori (kategori) VALUES
 
 -- Users
 INSERT INTO users (nama, role_user) VALUES
-('Ahmad Rizky', 'Admin'),
+('Ahmad Rizky', 'admin'),
 ('Budi Santoso', 'Pegawai'),
 ('Citra Dewi', 'Pegawai'),
 ('Dian Purnama', 'Pegawai');
